@@ -1,1 +1,0 @@
-import{B as e}from"./index-Cmlg4Xcf.js";var t=e();function n({children:e,style:n={},narrow:r=!1}){return(0,t.jsx)(`div`,{style:{maxWidth:r?`768px`:`1200px`,margin:`0 auto`,padding:`0 1.5rem`,width:`100%`,...n},children:e})}export{n as t};
